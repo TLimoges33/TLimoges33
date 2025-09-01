@@ -1,8 +1,8 @@
 <!-- Profile README for TLimoges33 -->
 
-<h1 align="center">👋 Hi, I'm TLimoges33</h1>
-<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student @ SNHU</b></p>
-<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Coder in the woods</p>
+<h1 align="center">👋 Hello there... I'm Ty Limoges, 33 is my goalie number</h1>
+<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student: SNHU</b></p>
+<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Code Wizard gaining root from in the woods</p>
 
 <p align="center">
   <!-- GitHub Stats -->
