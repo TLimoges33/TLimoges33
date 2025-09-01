@@ -1,12 +1,12 @@
 <!-- Profile README for TLimoges33 -->
 
-<h1 align="center">👋 Hi, I'm TLimoges33</h1>
-<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student @ SNHU</b></p>
+<h1 align="center">Hello, there-- I'm TLimoges33</h1>
+<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student </b></p>
 <p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Coder in the woods</p>
 
 ---
 
-### 🛡️ Cybersecurity-Focused, Polyglot Developer
+### Cybersecurity-Focused, Polyglot Developer
 
 - **Current Roles:**  
   - 🏥 Anesthesia Technician  
@@ -17,7 +17,7 @@
 
 ---
 
-#### 🧰 Top Languages & Specialties
+####  Top Languages & Specialties
 
 | Level        | Languages / Tools                       | Focus Areas                                         |
 |--------------|----------------------------------------|-----------------------------------------------------|
@@ -35,25 +35,25 @@
 
 ---
 
-### 🚀 Current Projects
+###  Current Projects
 
 - **[SynOS](#)**: Custom security-focused operating system (work in progress)
 - **[LifeRPG v2.0](#)**: Gamified personal productivity & habit tracker
 
 ---
 
-### 🏒 Outside the Terminal
+###  Outside the Terminal
 
 - Hockey goalie — probably on the ice or in the woods (with a laptop and SSH).
 - Always learning, always hacking—never afraid to dream a little bigger.
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 - 📸 [Instagram](https://instagram.com/tlimoges_33)
 - 📧 Email: mogeem33@gmail.com
 
 ---
 
-<sub><i>"You musn't be afraid to dream a little bigger..." — Inception</i></sub>
+<sub><i>"You mustn't be afraid to dream a little bigger..." — Inception</i></sub>
