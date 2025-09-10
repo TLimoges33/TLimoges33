@@ -1,8 +1,8 @@
 <!-- Profile README for TLimoges33 -->
 
-<h1 align="center">👋 Hello there... I'm Ty Limoges, 33 is my goalie number</h1>
+<h1 align="center">Hello there... I'm Ty Limoges, 33 is my goalie number</h1>
 <p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student: SNHU</b></p>
-<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Code Wizard gaining root from in the woods</p>
+<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Cyber Wizard gaining root from an open SSH port while out in the woods</p>
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -11,10 +11,10 @@
 
 ---
 
-### 🛡️ Cybersecurity-Focused, Polyglot Developer
+### Cybersecurity-Focused, Polyglot Developer
 
 - **Current Roles:**  
-  - 🏥 Anesthesia Technician  
+  - 🏥 Anesthesia Technician, Level 1 Trauma Center @ UMass Memorial University Campus 
   - 🎓 Cybersecurity Student @ Southern New Hampshire University (SNHU)
 
 - **About Me:**  
@@ -84,14 +84,13 @@
 
 ###  Outside the Terminal
 
-- Hockey goalie — probably on the ice or in the woods (with a laptop and SSH!).
+- Hockey goalie — probably on the ice after 9 pm in the Winter
 - Always learning, always hacking—never afraid to dream a little bigger.
 
 ---
 
 ###  Let's Chat!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40tlimoges__33-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tlimoges_33)
 [![Gmail](https://img.shields.io/badge/Email-mogeem33@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mogeem33@gmail.com)
 
 ---
