@@ -25,15 +25,6 @@
 
 ###  Language Arsenal & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-GCC14-blue?logo=c"/>
-  <img src="https://img.shields.io/badge/Rust-1.80-orange?logo=rust"/>
-  <img src="https://img.shields.io/badge/Go-1.23-blue?logo=go"/>
-  <img src="https://img.shields.io/badge/JavaScript-Node.js%2022-yellow?logo=javascript"/>
-  <img src="https://img.shields.io/badge/SQL-Postgres16-blue?logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Assembly-x86--64-lightgrey?logo=gnubash"/>
-</p>
 
 | Level    | Main Languages/Tools                                                                                       | Focus Areas                                         |
 |----------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
