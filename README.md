@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there... I'm Ty Limoges, 33 is my goalie number</h1>
 <p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student: SNHU</b></p>
-<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Cyber Wizard gaining root from an open SSH port while out in the woods</p>
+<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Cyber Wizard, Terminal and Full Stack Mercianry gaining root from an open SSH port while out in the woods</p>
 
 <p align="center">
   <!-- GitHub Stats -->
