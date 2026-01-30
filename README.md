@@ -1,8 +1,8 @@
 <!-- Profile README for TLimoges33 -->
 
 <h1 align="center">Hello there... I'm Ty Limoges, 33 is my goalie number</h1>
-<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student: SNHU</b></p>
-<p align="center">🛡️ Security-focused | 🥅 Hockey Goalie | 🌲 Cyber Wizard, Terminal and Full Stack Mercianry gaining root from an open SSH port while out in the woods</p>
+<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student/Freelance Specialist: SNHU (Oct. '26)</b></p>
+<p align="center">🛡️ Security-focused | 🥅 Has-been Tendie, Beer-Leauge Sub Merc | 🌲 Cyber Wizard, Terminal Mercianry gaining root from an open SSH port while out in the woods</p>
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -14,11 +14,11 @@
 ### Cybersecurity-Focused, Polyglot Developer
 
 - **Current Roles:**  
-  - 🏥 Anesthesia Technician, Level 1 Trauma Center @ UMass Memorial University Campus 
-  - 🎓 Cybersecurity Student @ Southern New Hampshire University (SNHU)
+  - 🏥 Anesthesia Technician, Level 1 Trauma Center @ UMass Memorial University Campus, Per Diem to deal with a tough time letting go.
+  - 🎓 Cybersecurity Student @ Southern New Hampshire University (SNHU) to get the book learning and Cert pathway mapped out to add credibility to my silly little ideas.
 
 - **About Me:**  
-  Passionate about hacking, scripting, and building secure systems—often from a rink or deep in the woods on an SSH connection.  
+  Passionate about hacking, pristine scripting, and building secure systems— often from a rink or deep in the woods on an SSH connection to my mesh system of mini PCs.  
   I love learning by doing: conquering CTFs, building security tools, and always pushing the boundaries of what’s possible.
 
 ---
@@ -38,7 +38,7 @@
 - **Go 1.23:** Networking tools, concurrency, web servers for automation  
 - **JavaScript / Node.js 22:** Web exploitation, automation, web app security  
 - **SQL (Postgres 16):** Injection practice, secure queries, database security  
-- **Assembly (x86-64):** Malware analysis, exploit dev, binary reversing  
+- **Assembly (x86-64):** Malware analysis, exploit dev, binary reversing  (whatever my dad taught me and whatever I smash my head on with development ideas)
 
 ---
 
@@ -59,24 +59,18 @@
   </a>
 </p>
 
-- **TryHackMe:** Cyber labs, CTFs, and red/blue team learning ([Profile](https://tryhackme.com/p/TLimoges33))  
-- **Hack The Box:** Challenging my skills on real-world hacking & pentest labs ([Profile](https://app.hackthebox.com/profile/227499))  
-- **OverTheWire:** Wargames for raw Linux, networking, and exploit-finding skills ([Wargames](https://overthewire.org/wargames/))  
-- **freeCodeCamp:** Sharpening web, database, and full-stack skills ([Profile](https://www.freecodecamp.org/TLimoges33))
-
+- **Bug Bounty Hunting:** BugCrowd, HackerOne, Intigriti, Synack, et al: DiabloRain // Syn_OS
+- If you guys got puzzles and things for me to try, send it always looking to sharpen the steel.
+  
 ---
 
 ###  Current Projects
 
-- **[SynOS](#)**: Custom security-focused operating system (work in progress)
-- **[LifeRPG v2.0](#)**: Gamified personal productivity & habit tracker
+- **[SynOS]**: Custom security-focused operating system (Public Beta Release Soon)
+- **[LifeRPG v2.0]**: Gamified personal productivity & habit tracker
 
 ---
-
-###  Outside the Terminal
-
-- Hockey goalie — probably on the ice after 9 pm in the Winter
-- Always learning, always hacking—never afraid to dream a little bigger.
+- Always learning, always hacking— never afraid to see a better option after finding the first good move.
 
 ---
 
