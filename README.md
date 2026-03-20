@@ -1,83 +1,186 @@
-<!-- Profile README for TLimoges33 -->
+<div align="center">
 
-<h1 align="center">Hello there... I'm Ty Limoges, 33 is my goalie number</h1>
-<p align="center"><b>Anesthesia Technician &amp; Cybersecurity Student/Freelance Specialist: SNHU (Oct. '26)</b></p>
-<p align="center">🛡️ Security-focused | 🥅 Has-been Tendie, Beer-Leauge Sub Merc | 🌲 Cyber Wizard, Terminal Mercianry gaining root from an open SSH port while out in the woods</p>
+<!-- HEADER BANNER - Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Ty+Limoges+%7C+TLimoges33;Red+Team+Consultant+%7C+Bug+Bounty+Hunter+%7C+OS+Developer" alt="Typing SVG" /></a>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://img.shields.io/badge/Student-SNHU-blue?logo=gradle" alt="SNHU Student"/>
+<!-- PROFILE VIEWS & SOCIAL BADGES -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=TLimoges33&label=Profile+Views&color=dc143c&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/TLimoges33?tab=followers"><img src="https://img.shields.io/github/followers/TLimoges33?label=Followers&style=flat-square&color=dc143c&labelColor=1a1a1a" alt="Followers" /></a>
+<a href="https://github.com/TLimoges33?tab=repositories"><img src="https://img.shields.io/github/stars/TLimoges33?label=Total+Stars&style=flat-square&color=dc143c&labelColor=1a1a1a" alt="Stars" /></a>
 </p>
 
----
+<!-- QUICK ID LINE -->
+<b>Anesthesia Technician & Cybersecurity Student/Freelance Specialist: SNHU (Oct. '26)</b>
 
-### Cybersecurity-Focused, Polyglot Developer
-
-- **Current Roles:**  
-  - 🏥 Anesthesia Technician, Level 1 Trauma Center @ UMass Memorial University Campus, Per Diem to deal with a tough time letting go.
-  - 🎓 Cybersecurity Student @ Southern New Hampshire University (SNHU) to get the book learning and Cert pathway mapped out to add credibility to my silly little ideas.
-
-- **About Me:**  
-  Passionate about hacking, pristine scripting, and building secure systems— often from a rink or deep in the woods on an SSH connection to my mesh system of mini PCs.  
-  I love learning by doing: conquering CTFs, building security tools, and always pushing the boundaries of what’s possible.
-
----
-
-###  Language Arsenal & Tools
-
-
-| Level    | Main Languages/Tools                                                                                       | Focus Areas                                         |
-|----------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| High     | ![Python](https://img.shields.io/badge/-Python%203.12-informational?logo=python) ![JavaScript](https://img.shields.io/badge/-Node.js%2022-yellow?logo=javascript) ![SQL](https://img.shields.io/badge/-Postgres16-blue?logo=postgresql) | Scripting, automation, web, DB security             |
-| Medium   | ![Go](https://img.shields.io/badge/-Go%201.23-blue?logo=go) ![Rust](https://img.shields.io/badge/-Rust%201.80-orange?logo=rust) ![C](https://img.shields.io/badge/-GCC%2014-blue?logo=c)  | Secure tools, exploits, vulnerability research       |
-| Low      | ![Assembly](https://img.shields.io/badge/-x86--64-lightgrey?logo=gnubash)                                  | Malware analysis, exploit dev, reversing            |
-
-- **Python 3.12:** Core scripting, automation, AI/ML, exploit prototyping  
-- **C (GCC 14):** Memory management, low-level exploits, reverse engineering  
-- **Rust 1.80:** Safe systems programming, modern security tools  
-- **Go 1.23:** Networking tools, concurrency, web servers for automation  
-- **JavaScript / Node.js 22:** Web exploitation, automation, web app security  
-- **SQL (Postgres 16):** Injection practice, secure queries, database security  
-- **Assembly (x86-64):** Malware analysis, exploit dev, binary reversing  (whatever my dad taught me and whatever I smash my head on with development ideas)
-
----
-
-###  Platforms & Learning
-
-<p align="center">
-  <a href="https://tryhackme.com/p/TLimoges33">
-    <img src="https://img.shields.io/badge/TryHackMe-%2312100E.svg?&logo=tryhackme&logoColor=white&label=TryHackMe&message=TLimoges33&color=red" alt="TryHackMe"/>
-  </a>
-  <a href="https://app.hackthebox.com/profile/227499">
-    <img src="https://img.shields.io/badge/HackTheBox-2D2D2D?logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
-  </a>
-  <a href="https://overthewire.org/wargames/">
-    <img src="https://img.shields.io/badge/OverTheWire-Wargames-orange?logo=protonmail" alt="OverTheWire"/>
-  </a>
-  <a href="https://www.freecodecamp.org/TLimoges33">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-006400?logo=freecodecamp&logoColor=white" alt="FreeCodeCamp"/>
-  </a>
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Security--focused-dc143c?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%85_Has--been_Tendie,_Beer--League_Sub_Merc-1a1a1a?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B2_Cyber_Wizard,_Terminal_Mercenary-dc143c?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-- **Bug Bounty Hunting:** BugCrowd, HackerOne, Intigriti, Synack, et al: DiabloRain // Syn_OS
-- If you guys got puzzles and things for me to try, send it always looking to sharpen the steel.
-  
----
+<i>Gaining root from an open SSH port while out in the woods</i>
 
-###  Current Projects
+<a href="https://snhu.edu"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Student-SNHU-dc143c?style=for-the-badge&labelColor=0d1117" /></a>
 
-- **[SynOS]**: Custom security-focused operating system (Public Beta Release Soon)
-- **[LifeRPG v2.0]**: Gamified personal productivity & habit tracker
-
----
-- Always learning, always hacking— never afraid to see a better option after finding the first good move.
+</div>
 
 ---
 
-###  Let's Chat!
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLimoges33&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
-[![Gmail](https://img.shields.io/badge/Email-mogeem33@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mogeem33@gmail.com)
+## `> whoami` — Cybersecurity-Focused, Polyglot Developer
+
+### Current Roles
+
+🏥 **Anesthesia Technician** — Level 1 Trauma Center @ UMass Memorial University Campus, Per Diem to deal with a tough time letting go.
+
+🎓 **Cybersecurity Student** — Southern New Hampshire University (SNHU) to get the book learning and Cert pathway mapped out to add credibility to my silly little ideas.
+
+### About Me
+
+Passionate about hacking, pristine scripting, and building secure systems— often from a rink or deep in the woods on an SSH connection to my mesh system of mini PCs. I love learning by doing: conquering CTFs, building security tools, and always pushing the boundaries of what's possible.
+
+<br clear="both"/>
 
 ---
 
-<sub><i>"You musn't be afraid to dream a little bigger..." — Inception</i></sub>
+## 🔴 Language Arsenal & Tools
+
+<div align="center">
+
+| Proficiency | Languages & Tools | Focus Areas |
+|:---:|:---:|:---|
+| `HIGH` | ![Python](https://img.shields.io/badge/Python_3.12-dc143c?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_22-dc143c?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres_16-dc143c?style=flat-square&logo=postgresql&logoColor=white) | Scripting, automation, web, DB security |
+| `MED` | ![Go](https://img.shields.io/badge/Go_1.23-1a1a1a?style=flat-square&logo=go&logoColor=dc143c) ![Rust](https://img.shields.io/badge/Rust_1.80-1a1a1a?style=flat-square&logo=rust&logoColor=dc143c) ![C](https://img.shields.io/badge/C_(GCC_14)-1a1a1a?style=flat-square&logo=c&logoColor=dc143c) | Secure tools, exploits, vulnerability research |
+| `LOW` | ![ASM](https://img.shields.io/badge/x86--64_ASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=ff0000) | Malware analysis, exploit dev, reversing |
+
+</div>
+
+<details>
+<summary><b>🔓 Expand Language Details</b></summary>
+<br>
+
+- **Python 3.12:** Core scripting, automation, AI/ML, exploit prototyping
+- **C (GCC 14):** Memory management, low-level exploits, reverse engineering
+- **Rust 1.80:** Safe systems programming, modern security tools
+- **Go 1.23:** Networking tools, concurrency, web servers for automation
+- **JavaScript / Node.js 22:** Web exploitation, automation, web app security
+- **SQL (Postgres 16):** Injection practice, secure queries, database security
+- **Assembly (x86-64):** Malware analysis, exploit dev, binary reversing (whatever my dad taught me and whatever I smash my head on with development ideas)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=dc143c" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+### ⏱️ WakaTime Development Metrics
+
+<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TLimoges33&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
+<!--END_SECTION:waka-->
+
+<i>Note: WakaTime tracks coding activity after setup — <a href="https://wakatime.com">wakatime.com</a></i>
+
+</div>
+
+---
+
+## ⚔️ Platforms & Learning
+
+<div align="center">
+
+<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme&logoColor=ff0000" /></a>
+<a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=ff0000" /></a>
+<a href="https://overthewire.org"><img src="https://img.shields.io/badge/OverTheWire-1a1a1a?style=for-the-badge&logo=linux&logoColor=ff0000" /></a>
+<a href="https://freecodecamp.org"><img src="https://img.shields.io/badge/freeCodeCamp-1a1a1a?style=for-the-badge&logo=freecodecamp&logoColor=ff0000" /></a>
+
+</div>
+
+### 🎯 Bug Bounty Hunting
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BugCrowd-dc143c?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerOne-dc143c?style=for-the-badge&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/Intigriti-dc143c?style=for-the-badge&logo=intigriti&logoColor=white" />
+<img src="https://img.shields.io/badge/Synack-dc143c?style=for-the-badge&logoColor=white" />
+
+<b>Handles:</b> <code>DiabloRain</code> // <code>Syn_OS</code>
+
+</div>
+
+> If you guys got puzzles and things for me to try, send it— always looking to sharpen the steel.
+
+---
+
+## 🚀 Current Projects
+
+<div align="center">
+
+<a href="https://github.com/TLimoges33">
+<img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_SynOS-Custom_Security--Focused_OS-dc143c?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br>
+<i>Public Beta Release Soon</i>
+
+<br><br>
+
+<a href="https://github.com/TLimoges33">
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_LifeRPG_v2.0-Gamified_Productivity_Tracker-1a1a1a?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TLimoges33/TLimoges33/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TLimoges33/TLimoges33/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/TLimoges33/TLimoges33/output/github-snake-dark.svg" />
+</picture>
+
+<br>
+<i>Set up with <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to auto-generate</i>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TLimoges33&bg_color=0d1117&color=ff0000&line=dc143c&point=ffffff&area_color=dc143c&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+
+> *Always learning, always hacking— never afraid to see a better option after finding the first good move.*
+
+---
+
+## 📬 Let's Chat!
+
+<a href="mailto:mogeem33@gmail.com"><img src="https://img.shields.io/badge/Email-mogeem33@gmail.com-dc143c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/TLimoges33"><img src="https://img.shields.io/badge/Instagram-TLimoges33-dc143c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://open.substack.com/pub/shelldiablo33"><img src="https://img.shields.io/badge/Substack-shelldiablo33-dc143c?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" /></a>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=dc143c&height=80&section=footer" width="100%" />
+
+*"You musn't be afraid to dream a little bigger..." — Inception*
+
+</div>
