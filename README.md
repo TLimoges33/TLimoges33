@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER - Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Ty+Limoges+%7C+TLimoges33;Red+Team+Consultant+%7C+Bug+Bounty+Hunter+%7C+OS+Developer" alt="Typing SVG" /></a>
+<!-- HEADER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+whoami+%E2%94%80+Ty+Limoges+%7C+TLimoges33;%24+cat+role.txt+%E2%94%80+Red+Team+%7C+Bug+Bounty+%7C+OS+Dev;%24+uptime+%E2%94%80+always_learning%2C+always_hacking" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
