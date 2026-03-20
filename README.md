@@ -1,33 +1,33 @@
 <div align="center">
 
 <!-- HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+whoami+%E2%94%80+Ty+Limoges+%7C+TLimoges33;%24+cat+role.txt+%E2%94%80+Red+Team+%7C+Bug+Bounty+%7C+OS+Dev;%24+uptime+%E2%94%80+always_learning%2C+always_hacking" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=9B0000&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+whoami+%E2%94%80+Ty+Limoges+%7C+TLimoges33;%24+cat+role.txt+%E2%94%80+Red+Team+%7C+Bug+Bounty+%7C+OS+Dev;%24+uptime+%E2%94%80+always_learning%2C+always_hacking" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=TLimoges33&label=Profile+Views&color=dc143c&style=flat-square" alt="Profile Views" />
-<a href="https://github.com/TLimoges33?tab=followers"><img src="https://img.shields.io/github/followers/TLimoges33?label=Followers&style=flat-square&color=dc143c&labelColor=1a1a1a" alt="Followers" /></a>
-<a href="https://github.com/TLimoges33?tab=repositories"><img src="https://img.shields.io/github/stars/TLimoges33?label=Total+Stars&style=flat-square&color=dc143c&labelColor=1a1a1a" alt="Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=TLimoges33&label=Profile+Views&color=9B0000&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/TLimoges33?tab=followers"><img src="https://img.shields.io/github/followers/TLimoges33?label=Followers&style=flat-square&color=9B0000&labelColor=1a1a1a" alt="Followers" /></a>
+<a href="https://github.com/TLimoges33?tab=repositories"><img src="https://img.shields.io/github/stars/TLimoges33?label=Total+Stars&style=flat-square&color=9B0000&labelColor=1a1a1a" alt="Stars" /></a>
 </p>
 
 <!-- QUICK ID LINE -->
 <b>Anesthesia Technician & Cybersecurity Student/Freelance Specialist: SNHU (Oct. '26)</b>
 
 <p>
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Security--focused-dc143c?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Security--focused-9B0000?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/%F0%9F%A5%85_Has--been_Tendie,_Beer--League_Sub_Merc-1a1a1a?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/%F0%9F%8C%B2_Cyber_Wizard,_Terminal_Mercenary-dc143c?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B2_Cyber_Wizard,_Terminal_Mercenary-9B0000?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <i>Gaining root from an open SSH port while out in the woods</i>
 
-<a href="https://snhu.edu"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Student-SNHU-dc143c?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://snhu.edu"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Student-SNHU-9B0000?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
 ---
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLimoges33&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLimoges33&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 ## `> whoami` — Cybersecurity-Focused, Polyglot Developer
 
@@ -51,9 +51,9 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 | Proficiency | Languages & Tools | Focus Areas |
 |:---:|:---:|:---|
-| `HIGH` | ![Python](https://img.shields.io/badge/Python_3.12-dc143c?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_22-dc143c?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres_16-dc143c?style=flat-square&logo=postgresql&logoColor=white) | Scripting, automation, web, DB security |
-| `MED` | ![Go](https://img.shields.io/badge/Go_1.23-1a1a1a?style=flat-square&logo=go&logoColor=dc143c) ![Rust](https://img.shields.io/badge/Rust_1.80-1a1a1a?style=flat-square&logo=rust&logoColor=dc143c) ![C](https://img.shields.io/badge/C_(GCC_14)-1a1a1a?style=flat-square&logo=c&logoColor=dc143c) | Secure tools, exploits, vulnerability research |
-| `LOW` | ![ASM](https://img.shields.io/badge/x86--64_ASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=ff0000) | Malware analysis, exploit dev, reversing |
+| `HIGH` | ![Python](https://img.shields.io/badge/Python_3.12-9B0000?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_22-9B0000?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres_16-9B0000?style=flat-square&logo=postgresql&logoColor=white) | Scripting, automation, web, DB security |
+| `MED` | ![Go](https://img.shields.io/badge/Go_1.23-1a1a1a?style=flat-square&logo=go&logoColor=9B0000) ![Rust](https://img.shields.io/badge/Rust_1.80-1a1a1a?style=flat-square&logo=rust&logoColor=9B0000) ![C](https://img.shields.io/badge/C_(GCC_14)-1a1a1a?style=flat-square&logo=c&logoColor=9B0000) | Secure tools, exploits, vulnerability research |
+| `LOW` | ![ASM](https://img.shields.io/badge/x86--64_ASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=9B0000) | Malware analysis, exploit dev, reversing |
 
 </div>
 
@@ -76,8 +76,8 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=dc143c" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&icon_color=9B0000&text_color=ffffff&ring_color=9B0000" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=9B0000&fire=9B0000&currStreakLabel=9B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -85,7 +85,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TLimoges33&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TLimoges33&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
 <!--END_SECTION:waka-->
 
 <i>Note: WakaTime tracks coding activity after setup — <a href="https://wakatime.com">wakatime.com</a></i>
@@ -98,10 +98,10 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 <div align="center">
 
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme&logoColor=ff0000" /></a>
-<a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=ff0000" /></a>
-<a href="https://overthewire.org"><img src="https://img.shields.io/badge/OverTheWire-1a1a1a?style=for-the-badge&logo=linux&logoColor=ff0000" /></a>
-<a href="https://freecodecamp.org"><img src="https://img.shields.io/badge/freeCodeCamp-1a1a1a?style=for-the-badge&logo=freecodecamp&logoColor=ff0000" /></a>
+<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme&logoColor=9B0000" /></a>
+<a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=9B0000" /></a>
+<a href="https://overthewire.org"><img src="https://img.shields.io/badge/OverTheWire-1a1a1a?style=for-the-badge&logo=linux&logoColor=9B0000" /></a>
+<a href="https://freecodecamp.org"><img src="https://img.shields.io/badge/freeCodeCamp-1a1a1a?style=for-the-badge&logo=freecodecamp&logoColor=9B0000" /></a>
 
 </div>
 
@@ -109,10 +109,10 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BugCrowd-dc143c?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerOne-dc143c?style=for-the-badge&logo=hackerone&logoColor=white" />
-<img src="https://img.shields.io/badge/Intigriti-dc143c?style=for-the-badge&logo=intigriti&logoColor=white" />
-<img src="https://img.shields.io/badge/Synack-dc143c?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/BugCrowd-9B0000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerOne-9B0000?style=for-the-badge&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/Intigriti-9B0000?style=for-the-badge&logo=intigriti&logoColor=white" />
+<img src="https://img.shields.io/badge/Synack-9B0000?style=for-the-badge&logoColor=white" />
 
 <b>Handles:</b> <code>DiabloRain</code> // <code>Syn_OS</code>
 
@@ -127,7 +127,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 <div align="center">
 
 <a href="https://github.com/TLimoges33">
-<img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_SynOS-Custom_Security--Focused_OS-dc143c?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_SynOS-Custom_Security--Focused_OS-9B0000?style=for-the-badge&labelColor=0d1117" />
 </a>
 <br>
 <i>Public Beta Release Soon</i>
@@ -160,7 +160,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TLimoges33&bg_color=0d1117&color=ff0000&line=dc143c&point=ffffff&area_color=dc143c&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TLimoges33&bg_color=0d1117&color=9B0000&line=9B0000&point=ffffff&area_color=9B0000&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -173,13 +173,13 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ## 📬 Let's Chat!
 
-<a href="mailto:mogeem33@gmail.com"><img src="https://img.shields.io/badge/Email-mogeem33@gmail.com-dc143c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://instagram.com/TLimoges33"><img src="https://img.shields.io/badge/Instagram-TLimoges33-dc143c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://open.substack.com/pub/shelldiablo33"><img src="https://img.shields.io/badge/Substack-shelldiablo33-dc143c?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:mogeem33@gmail.com"><img src="https://img.shields.io/badge/Email-mogeem33@gmail.com-9B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/TLimoges33"><img src="https://img.shields.io/badge/Instagram-TLimoges33-9B0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://open.substack.com/pub/shelldiablo33"><img src="https://img.shields.io/badge/Substack-shelldiablo33-9B0000?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" /></a>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dc143c&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B0000&height=80&section=footer" width="100%" />
 
 *"You musn't be afraid to dream a little bigger..." — Inception*
 
