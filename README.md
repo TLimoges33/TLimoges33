@@ -27,7 +27,7 @@
 
 ---
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLimoges33&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img align="right" width="320" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TLimoges33&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 ## `> whoami` — Cybersecurity-Focused, Polyglot Developer
 
@@ -76,8 +76,8 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&icon_color=9B0000&text_color=ffffff&ring_color=9B0000" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=9B0000&fire=9B0000&currStreakLabel=9B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&icon_color=9B0000&text_color=ffffff&ring_color=9B0000" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=9B0000&fire=9B0000&currStreakLabel=9B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -85,7 +85,11 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TLimoges33&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
+<!-- Disabled: there is no public WakaTime profile for this username yet, so the card
+     renders an error instead of stats. Sign up at https://wakatime.com, make the profile
+     public, then un-comment the line below.
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=TLimoges33&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
+-->
 <!--END_SECTION:waka-->
 
 <i>Note: WakaTime tracks coding activity after setup — <a href="https://wakatime.com">wakatime.com</a></i>
@@ -145,14 +149,10 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 ## 🐍 Contribution Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TLimoges33/TLimoges33/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TLimoges33/TLimoges33/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/TLimoges33/TLimoges33/output/github-snake-dark.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/9B0000/TLimoges33" alt="TLimoges33 contribution chart" width="100%" />
 
 <br>
-<i>Set up with <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to auto-generate</i>
+<i>Want the animated snake back? It needs the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action committed to <code>.github/workflows/</code> so it can publish the SVG to an <code>output</code> branch.</i>
 </div>
 
 ---
