@@ -45,7 +45,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-## 🔴 Language Arsenal & Tools
+##  Language Arsenal & Tools
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 </div>
 
 <details>
-<summary><b>🔓 Expand Language Details</b></summary>
+<summary><b> Expand Language Details</b></summary>
 <br>
 
 - **Python 3.12:** Core scripting, automation, AI/ML, exploit prototyping
@@ -73,32 +73,16 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&icon_color=9B0000&text_color=ffffff&ring_color=9B0000" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=9B0000&fire=9B0000&currStreakLabel=9B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
 </div>
 
-<div align="center">
 
-### ⏱️ WakaTime Development Metrics
 
-<!--START_SECTION:waka-->
-<!-- Disabled: there is no public WakaTime profile for this username yet, so the card
-     renders an error instead of stats. Sign up at https://wakatime.com, make the profile
-     public, then un-comment the line below.
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=TLimoges33&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
--->
-<!--END_SECTION:waka-->
-
-<i>Note: WakaTime tracks coding activity after setup — <a href="https://wakatime.com">wakatime.com</a></i>
-
-</div>
-
----
-
-## ⚔️ Platforms & Learning
+## Platforms & Learning
 
 <div align="center">
 
@@ -109,7 +93,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 </div>
 
-### 🎯 Bug Bounty Hunting
+### Bug Bounty Hunting
 
 <div align="center">
 
@@ -126,7 +110,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 <div align="center">
 
@@ -146,7 +130,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 <img src="https://ghchart.rshah.org/9B0000/TLimoges33" alt="TLimoges33 contribution chart" width="100%" />
@@ -157,7 +141,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TLimoges33&bg_color=0d1117&color=9B0000&line=9B0000&point=ffffff&area_color=9B0000&area=true&hide_border=true" alt="Activity Graph" />
@@ -171,7 +155,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-## 📬 Let's Chat!
+## Let's Chat!
 
 <a href="mailto:mogeem33@gmail.com"><img src="https://img.shields.io/badge/Email-mogeem33@gmail.com-9B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://instagram.com/TLimoges33"><img src="https://img.shields.io/badge/Instagram-TLimoges33-9B0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
