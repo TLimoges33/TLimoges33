@@ -27,8 +27,6 @@
 
 ---
 
-<img align="right" width="320" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TLimoges33&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&text_color=ffffff&langs_count=8" alt="Top Languages" />
-
 ## `> whoami` — Cybersecurity-Focused, Polyglot Developer
 
 ### Current Roles
