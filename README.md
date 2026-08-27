@@ -73,13 +73,6 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 ---
 
-##  GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=TLimoges33&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B0000&icon_color=9B0000&text_color=ffffff&ring_color=9B0000" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=TLimoges33&theme=radical&hide_border=true&background=0D1117&ring=9B0000&fire=9B0000&currStreakLabel=9B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
-</div>
-
 
 
 ## Platforms & Learning
@@ -106,7 +99,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 </div>
 
-> If you guys got puzzles and things for me to try, send it— always looking to sharpen the steel.
+> If you guys got puzzles and things for me to try, send it— always looking to sharpen the steel if I have the time.
 
 ---
 
@@ -118,7 +111,7 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_SynOS-Custom_Security--Focused_OS-9B0000?style=for-the-badge&labelColor=0d1117" />
 </a>
 <br>
-<i>Public Beta Release Soon</i>
+<i>Public Beta Release Soon as I'm happy with it</i>
 
 <br><br>
 
@@ -128,24 +121,6 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 </div>
 
----
-
-## Contribution Graph
-
-<div align="center">
-<img src="https://ghchart.rshah.org/9B0000/TLimoges33" alt="TLimoges33 contribution chart" width="100%" />
-
-<br>
-<i>Want the animated snake back? It needs the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action committed to <code>.github/workflows/</code> so it can publish the SVG to an <code>output</code> branch.</i>
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TLimoges33&bg_color=0d1117&color=9B0000&line=9B0000&point=ffffff&area_color=9B0000&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
