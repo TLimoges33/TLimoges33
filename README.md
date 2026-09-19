@@ -47,11 +47,11 @@ Passionate about hacking, pristine scripting, and building secure systems— oft
 
 <div align="center">
 
-| Proficiency | Languages & Tools | Focus Areas |
-|:---:|:---:|:---|
-| `HIGH` | ![Python](https://img.shields.io/badge/Python_3.12-9B0000?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_22-9B0000?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres_16-9B0000?style=flat-square&logo=postgresql&logoColor=white) | Scripting, automation, web, DB security |
-| `MED` | ![Go](https://img.shields.io/badge/Go_1.23-1a1a1a?style=flat-square&logo=go&logoColor=9B0000) ![Rust](https://img.shields.io/badge/Rust_1.80-1a1a1a?style=flat-square&logo=rust&logoColor=9B0000) ![C](https://img.shields.io/badge/C_(GCC_14)-1a1a1a?style=flat-square&logo=c&logoColor=9B0000) | Secure tools, exploits, vulnerability research |
-| `LOW` | ![ASM](https://img.shields.io/badge/x86--64_ASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=9B0000) | Malware analysis, exploit dev, reversing |
+| Languages & Tools | Focus Areas |
+|:---:|:---|
+| ![Python](https://img.shields.io/badge/Python_3.12-9B0000?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_22-9B0000?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres_16-9B0000?style=flat-square&logo=postgresql&logoColor=white) | Scripting, automation, web, DB security |
+| ![Go](https://img.shields.io/badge/Go_1.23-1a1a1a?style=flat-square&logo=go&logoColor=9B0000) ![Rust](https://img.shields.io/badge/Rust_1.80-1a1a1a?style=flat-square&logo=rust&logoColor=9B0000) ![C](https://img.shields.io/badge/C_(GCC_14)-1a1a1a?style=flat-square&logo=c&logoColor=9B0000) | Secure tools, exploits, vulnerability research |
+| ![ASM](https://img.shields.io/badge/x86--64_ASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=9B0000) | Malware analysis, exploit dev, reversing |
 
 </div>
 
